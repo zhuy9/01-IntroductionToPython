@@ -98,7 +98,7 @@ boris.forward(200)
 #   - Construct a second SimpleTurtle,
 #     set its  pen  and  speed  INSTANCE VARIABLES, and ask it to do things.
 # -----------------------------------------------------------------------------
-natasha = rg.SimpleTurtle('turtle') # turtle - image
+natasha = rg.SimpleTurtle('turtle')  # turtle - image
 natasha.pen = rg.Pen('red', 30)  # Second argument is the Pen's thickness
 natasha.speed = 10  # Faster
 
@@ -155,13 +155,13 @@ boris.forward(20)
 #
 ###############################################################################
 mary = rg.SimpleTurtle('square')
-mary.pen = rg.Pen('green',20)
+mary.pen = rg.Pen('green', 20)
 mary.backward(100)
 mary.left(50)
 mary.forward(240)
 ###############################################################################
 #
-# TODO: 6.
+# DONE: 6.
 #   Run one more time to be sure that all is still OK.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #
