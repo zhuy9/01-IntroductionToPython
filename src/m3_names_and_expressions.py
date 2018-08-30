@@ -96,7 +96,7 @@ print(2 ** 0.5)
 # After you have written and run the code to learn the TYPE
 # of each of the above, change the above _TODO_ to DONE.
 ###############################################################################
-
+# int string float
 print(type("hello"))
 print(type('hello'))
 print(type("a b c"))
