@@ -53,7 +53,6 @@ print(math.sqrt((41 * 88) + (4 * math.cos(2))))
 #   Print both of the  the expressions that you write.
 #   Run your code (fix errors as needed), then change the above _TODO_ to DONE.
 ###############################################################################
-
 print(math.sqrt(2))
 print(2 ** 0.5)
 
