@@ -5,12 +5,12 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Amanda Stouder,
          their colleagues and Yuchen ZHU.
 """
 ###############################################################################
-# DONE: 1.
+# DONE: 1. AUG 31
 #   On Line 5 above, replace  PUT_YOUR_NAME_HERE  with your own name.
 ###############################################################################
 
 ###############################################################################
-# DONE: 2.
+# DONE: 2. AUG 31
 #   You should have RUN the  m5e_loopy_turtles  module and READ its code.
 #   (Do so now if you have not already done so.)
 #
