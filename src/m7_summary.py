@@ -2,7 +2,7 @@
 An exercise that summarizes what you have learned in this Session.
 
 Authors: David Mutchler, Dave Fisher, Vibha Alangar, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
+         their colleagues and Yuchen ZHU.
 """
 ########################################################################
 # TODO: 1.
